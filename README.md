@@ -6,3 +6,5 @@
 
 * Nettoyage des données issues du scraping sur Github
 * Analyse et visualisation des données issues du scraping sur Github
+* Modélisation et stockage de données GitHub dans une base de données relationnelle
+
